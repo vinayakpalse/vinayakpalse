@@ -1,6 +1,11 @@
 <h1 align="left">Hi 👋, I'm Vinayak Palse</h1>
 
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20ML%20DS-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
